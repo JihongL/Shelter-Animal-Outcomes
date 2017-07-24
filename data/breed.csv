@@ -5,9 +5,7 @@ Airedale Terrier,Terrier
 Akita,Working
 Alaskan Malamute,Working
 American English Coonhound,Hound
-American Eskimo Dog (Miniature),Non-Sporting
-American Eskimo Dog (Standard),Non-Sporting
-American Eskimo Dog (Toy),Toy
+American Eskimo Dog,Non-Sporting
 American Foxhound,Hound
 American Hairless Terrier,Terrier
 American Staffordshire Terrier,Terrier
@@ -116,7 +114,7 @@ Leonberger,Working
 Lhasa Apso,Non-Sporting
 Lowchen,Non-Sporting
 Maltese,Toy
-Manchester Terrier,Terrier&Toy
+Manchester Terrier,Terrier
 Mastiff,Working
 Miniature American Shepherd,Herding
 Miniature Bull Terrier,Terrier
@@ -136,13 +134,13 @@ Papillon,Toy
 Parson Russell Terrier,Terrier
 Pekingese,Toy
 Pembroke Welsh Corgi,Herding
-Petit Basset Griffon Vend?en,Hound
+Petit Basset Griffon Vendeen,Hound
 Pharaoh Hound,Hound
 Plott,Hound
 Pointer,Sporting
 Polish Lowland Sheepdog,Herding
 Pomeranian,Toy
-Poodle,Non-Sporting&Toy
+Poodle,Non-Sporting
 Portuguese Podengo Pequeno,Hound
 Portuguese Water Dog,Working
 Pug,Toy
@@ -192,3 +190,15 @@ Wirehaired Pointing Griffon,Sporting
 Wirehaired Vizsla,Sporting
 Xoloitzcuintli,Non-Sporting
 Yorkshire Terrier,Toy
+Australian Kelpie,Working
+Catahoula Cur,Herding
+Black Mouth Cur,Herding
+Blue Lacy,Working
+Dutch Shepherd Dog,Herding
+Patterdale Terrier,Terrier
+Feist,Terrier
+Carolina Dog,Terrier
+Jindo,Hound
+English Shepherd,Herding
+Hovawart,Working
+Swiss Hound,Hound
