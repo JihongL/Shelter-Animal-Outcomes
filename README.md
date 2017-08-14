@@ -9,7 +9,7 @@
   - Preprocessing
   - Graphworks
 - Shelter_Classification
-  - Apply classification mdoels
+  - Apply classification models
   - Submit
 
 
