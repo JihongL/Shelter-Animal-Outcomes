@@ -9,8 +9,11 @@
   - Preprocessing
   - Graphworks
 - Shelter_Classification
-  - Apply classification models
+  - Apply classification model
   - Submit
 
-
+### Workflow
+|EDA &<br>Preprocessing|Model<br>Selection|Model<br>Validation|
+|:---:|:---:|:---:|
+|Dummification<br>Data Cleaning|Feature Selection<br>Cross Validation|logloss|
 
