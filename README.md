@@ -20,6 +20,11 @@
 ### Dataset
 - Animal outcome data from October 1st, 2013 to March, 2016
 
+|Set|Rows|Columns|
+|:---:|:---:|:---:|
+|Train|26730|10|
+|Test|11457|8|
+
 #### Independent Values
 |Index|Values|Type|Description|
 |:---:|:---:|:---:|:---|
