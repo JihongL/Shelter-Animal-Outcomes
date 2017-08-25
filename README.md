@@ -5,10 +5,10 @@
 - Multiclass classification
 
 ### Introduction
-- Shelter_EDA
+- [Shelter_EDA](http://nbviewer.jupyter.org/github/JihongL/Shelter-Animal-Outcomes/blob/master/Shelter_EDA.ipynb)
   - Preprocessing
   - Graphworks
-- Shelter_Classification
+- [Shelter_Classification](http://nbviewer.jupyter.org/github/JihongL/Shelter-Animal-Outcomes/blob/master/Shelter_Classification.ipynb)
   - Apply classification model
   - Submit
 
